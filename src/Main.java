@@ -19,7 +19,7 @@ public class Main {
     String lastName = scanner.nextLine();
 
     System.out.format(
-      "Hey, %s %s %s, remember this:\n",
+      "Hey, %s %s %s, remember this 🎉:\n",
       firstName,
       middleName,
       lastName
